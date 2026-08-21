@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|c:\\users\\pc\\source\\repos\\atmmanagementsys\\atmmanagementsys\\atmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\atmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|C:\\Users\\PC\\source\\repos\\ATMManagementSys\\atmmanagementsys\\atmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\atmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|c:\\users\\pc\\source\\repos\\atmmanagementsys\\atmmanagementsys\\withdrawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\withdrawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|c:\\users\\pc\\source\\repos\\atmmanagementsys\\atmmanagementsys\\withdrawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\withdrawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|C:\\Users\\PC\\source\\repos\\ATMManagementSys\\atmmanagementsys\\depositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\depositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|c:\\users\\pc\\source\\repos\\atmmanagementsys\\atmmanagementsys\\atmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\atmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|c:\\users\\pc\\source\\repos\\atmmanagementsys\\atmmanagementsys\\atmmanagementsys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\atmmanagementsys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|c:\\users\\pc\\source\\repos\\atmmanagementsys\\atmmanagementsys\\depositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\depositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|C:\\Users\\PC\\source\\repos\\ATMManagementSys\\atmmanagementsys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA13D7F5-256F-430A-A10A-E23EBB3555A0}|ATMManagementSys\\ATMManagementSys.csproj|C:\\Users\\PC\\source\\repos\\ATMManagementSys\\atmmanagementsys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA13D7F5-256F-430A-A10A-E23EBB3555A0}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|c:\\users\\pc\\source\\repos\\atmmanagementsys\\atmmanagementsys\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|c:\\users\\pc\\source\\repos\\atmmanagementsys\\atmmanagementsys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA13D7F5-256F-430A-A10A-E23EBB3555A0}|ATMManagementSys\\ATMManagementSys.csproj|C:\\Users\\PC\\source\\repos\\ATMManagementSys\\atmmanagementsys\\atmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA13D7F5-256F-430A-A10A-E23EBB3555A0}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\atmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|c:\\users\\pc\\source\\repos\\atmmanagementsys\\atmmanagementsys\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E0C39A6-5EEA-E03F-5C64-27169F16A456}|ATMManagementSys\\ATMManagementSys.csproj|solutionrelative:atmmanagementsys\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WithdrawForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\WithdrawForm.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\WithdrawForm.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\WithdrawForm.cs",
+              "RelativeToolTip": "ATMManagementSys\\WithdrawForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T05:36:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WithdrawForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\WithdrawForm.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\WithdrawForm.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\WithdrawForm.cs [Design]",
+              "RelativeToolTip": "ATMManagementSys\\WithdrawForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T20:24:01.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ATMMenu.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMMenu.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\ATMMenu.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMMenu.cs",
+              "RelativeToolTip": "ATMManagementSys\\ATMMenu.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAhwGsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T16:24:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATMMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMMenu.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\ATMMenu.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMMenu.cs [Design]",
+              "RelativeToolTip": "ATMManagementSys\\ATMMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T17:49:15.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepositForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\DepositForm.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\DepositForm.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\DepositForm.cs [Design]",
+              "RelativeToolTip": "ATMManagementSys\\DepositForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T19:41:50.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ATMMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMMenu.Designer.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\ATMMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMMenu.Designer.cs",
+              "RelativeToolTip": "ATMManagementSys\\ATMMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T20:04:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Form1.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Form1.cs [Design]",
+              "RelativeToolTip": "ATMManagementSys\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T18:20:33.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepositForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\DepositForm.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\DepositForm.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\DepositForm.cs",
+              "RelativeToolTip": "ATMManagementSys\\DepositForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T19:43:55.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ATMManagementSys.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMManagementSys.csproj",
+              "RelativeDocumentMoniker": "ATMManagementSys\\ATMManagementSys.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMManagementSys.csproj",
+              "RelativeToolTip": "ATMManagementSys\\ATMManagementSys.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-30T15:16:07.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Form1.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Form1.cs",
+              "RelativeToolTip": "ATMManagementSys\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T14:45:17.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Database.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\Database.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Database.cs",
+              "RelativeToolTip": "ATMManagementSys\\Database.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T15:21:03.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Form1.Designer.cs",
+              "RelativeToolTip": "ATMManagementSys\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T15:45:17.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ATMMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMMenu.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\ATMMenu.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\ATMMenu.cs [Design]",
+              "RelativeToolTip": "ATMManagementSys\\ATMMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T16:06:10.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Form1.cs",
+              "RelativeDocumentMoniker": "ATMManagementSys\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ATMManagementSys\\ATMManagementSys\\Form1.cs [Design]",
+              "RelativeToolTip": "ATMManagementSys\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T14:41:45.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
